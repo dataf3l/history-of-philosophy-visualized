@@ -1,15 +1,5 @@
 List of Philosophers:
 --------------------
-Thales
-Anaximander
-Anaximenes
-Pythagoras
-Xenophanes
-Heraclitus
-Parmenides
-Empedocles
-Protagoras
-Democritus & Leucippus
 Zeno of Elea
 Socrates
 Aristippus
@@ -29,10 +19,10 @@ John Scotus Erigena
 Saint Anselm
 Thomas Aquinas
 William of Ockham
-Niccolò Machiavelli
+Niccolï¿½ Machiavelli
 Francis Bacon
 Thomas Hobbes
-René Descartes
+Renï¿½ Descartes
 Blaise Pascal
 Benedict Spinoza
 John Locke
@@ -56,7 +46,7 @@ Ludwig Feuerbach
 John Austin
 John Stuart Mill
 Charles Darwin
-Søren Kierkegaard
+Sï¿½ren Kierkegaard
 Karl Marx
 Franz Brentano
 Charles Sanders Peirce
@@ -64,7 +54,7 @@ William James
 Friedrich Nietzsche
 Francis Herbert Bradley
 Gottlob Frege
-Henri Poincaré
+Henri Poincarï¿½
 Sigmund Freud
 Ferdinand de Saussure
 Edmund Husserl
@@ -91,7 +81,7 @@ Burrhus Frederic Skinner
 Carl Hempel
 Karl Popper
 Gilbert Ryle
-Kurt Gödel
+Kurt Gï¿½del
 Alfred Tarski
 Ernst Mayr
 Georges Bataille
@@ -133,7 +123,7 @@ Imre Lakatos
 Paul Feyerabend
 Louis Althusser
 Michel Foucault
-Jean-François Lyotard
+Jean-Franï¿½ois Lyotard
 Gilles Deleuze
 Arthur Danto
 George Dickie
@@ -150,7 +140,7 @@ Jacques Derrida
 Alvin Plantinga
 Luce Irigaray
 John Searle
-Jürgen Habermas
+Jï¿½rgen Habermas
 Richard Rorty
 Jerry Fodor
 Thomas Nagel
