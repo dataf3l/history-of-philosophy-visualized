@@ -1,6 +1,5 @@
 List of Philosophers:
 --------------------
-Zeno of Elea
 Socrates
 Aristippus
 Plato
