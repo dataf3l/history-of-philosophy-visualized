@@ -1,0 +1,18 @@
+
+https://www.gutenberg.org/cache/epub/1998/pg1998.txt
+
+allen nlp (deceased)
+https://docs.allennlp.org/main/
+
+conversation about tool (auditor)
+https://gemini.google.com/app/18b27d70b94a0d76
+
+tree distance algos
+NetworkX
+https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.similarity.graph_edit_distance.html
+
+APTED
+https://github.com/DatabaseGroup/apted/blob/master/src/main/java/at/unisalzburg/dbresearch/apted/distance/APTED.java
+
+networkx.algorithms.isomorphism.tree_isomorphism.tree_isomorphism
+
