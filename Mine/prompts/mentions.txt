@@ -1,0 +1,184 @@
+Thales|01.txt,02.txt,24.txt,26.txt
+Anaximander|01.txt,02.txt
+Anaximenes|02.txt
+Pythagoras|02.txt
+Xenophanes|03.txt
+Heraclitus|03.txt,04.txt
+Parmenides|03.txt,04.txt
+Empedocles|04.txt
+Protagoras|04.txt
+Zeno of Elea|04.txt
+Socrates|05.txt,24.txt,25.txt
+Aristippus|05.txt,06.txt
+Plato|05.txt,06.txt,07.txt,08.txt,10.txt,24.txt
+Aristotle|06.txt,08.txt,14.txt,16.txt,18.txt,24.txt,25.txt
+Eubulides|06.txt
+Diogenes|06.txt
+Pyrrho|06.txt,07.txt
+Epicurus|06.txt
+Zeno of Citium|06.txt
+Timon of Phlius|07.txt
+Epictetus|07.txt
+Marcus Aurelius|07.txt
+Plotinus|07.txt
+Saint Augustine|07.txt
+John Scotus Erigena|08.txt
+Saint Anselm|08.txt
+Thomas Aquinas|08.txt
+William of Ockham|08.txt
+Niccolò Machiavelli|09.txt
+Francis Bacon|09.txt
+Thomas Hobbes|09.txt
+René Descartes|09.txt
+Blaise Pascal|09.txt
+Benedict Spinoza|10.txt
+John Locke|10.txt
+Anne Conway|10.txt
+Gottfried Wilhelm Leibniz|10.txt
+George Berkeley|11.txt
+Francis Hutcheson|11.txt
+David Hume|11.txt
+Thomas Reid|11.txt
+Immanuel Kant|10.txt,11.txt
+William Paley|12.txt
+Jeremy Bentham|12.txt
+Mary Wollstonecraft|12.txt
+Johann Gottlieb Fichte|12.txt
+Friedrich Schelling|12.txt
+Georg Wilhelm Friedrich Hegel|12.txt
+Arthur Schopenhauer|12.txt
+Ludwig Feuerbach|12.txt
+John Austin|13.txt
+John Stuart Mill|13.txt
+Charles Darwin|13.txt
+Søren Kierkegaard|13.txt
+Karl Marx|12.txt
+Franz Brentano|13.txt
+Charles Sanders Peirce|13.txt
+William James|13.txt
+Friedrich Nietzsche|13.txt
+Francis Herbert Bradley|14.txt
+Gottlob Frege|14.txt
+Henri Poincaré|14.txt
+Sigmund Freud|14.txt
+Ferdinand de Saussure|14.txt
+Edmund Husserl|14.txt
+Henri Bergson|14.txt
+John Dewey|14.txt
+Pierre Duhem|14.txt
+George Santayana|14.txt
+John Ellis McTaggart|14.txt
+Benedetto Croce|14.txt
+Clive Bell|14.txt
+Hans Kelsen|14.txt
+George Edward Moore|14.txt
+Bertrand Russell|14.txt,15.txt
+Arthur Eddington|15.txt
+Ludwig Wittgenstein|15.txt
+Frank Ramsey|15.txt
+Martin Heidegger|15.txt
+Rudolf Carnap|15.txt
+Susan Stebbing|15.txt
+Antonio Gramsci|15.txt
+Walter Benjamin|15.txt
+Suzanne Langer|15.txt
+Burrhus Frederic Skinner|15.txt
+Carl Hempel|16.txt
+Karl Popper|16.txt
+Gilbert Ryle|16.txt
+Kurt Gödel|15.txt,16.txt
+Alfred Tarski|16.txt
+Ernst Mayr|16.txt
+Georges Bataille|16.txt
+Jacques Lacan|16.txt
+Theodor Adorno|16.txt
+Hannah Arendt|16.txt
+Jean-Paul Sartre|16.txt
+Simone de Beauvoir|17.txt
+Maurice Merleau-Ponty|17.txt
+Albert Camus|17.txt
+Herbert Lionel Adolphus Hart|17.txt
+Alfred Jules Ayer|17.txt
+John Langshaw Austin|17.txt
+Ernst Gombrich|17.txt
+Nelson Goodman|17.txt
+Willard Van Orman Quine|17.txt
+William Frankena|17.txt
+Clement Greenberg|17.txt
+Wilfrid Sellars|17.txt
+Peter Strawson|17.txt
+Paul Grice|18.txt
+Donald Campbell|18.txt
+Monroe Beardsley|18.txt
+Morris Weitz|18.txt
+Roland Barthes|18.txt
+Peter Geach|18.txt
+Elizabeth Anscombe|18.txt
+Peter Winch|18.txt
+Donald Davidson|18.txt
+Abraham Irving Melden|18.txt
+John Jamieson Carswell Smart|18.txt
+Richard Hare|18.txt
+John Mackie|18.txt
+Philippa Foot|18.txt
+John Rawls|19.txt
+Frank Sibley|19.txt
+Thomas Kuhn|19.txt
+Imre Lakatos|19.txt
+Paul Feyerabend|19.txt
+Louis Althusser|19.txt
+Michel Foucault|19.txt
+Jean-François Lyotard|19.txt
+Gilles Deleuze|19.txt
+Arthur Danto|19.txt
+George Dickie|19.txt
+Michael Dummett|20.txt
+Hilary Putnam|20.txt
+Edmund Gettier|20.txt
+Noam Chomsky|20.txt
+Jean Baudrillard|20.txt
+Richard Lewontin|20.txt
+Harry Frankfurt|20.txt
+Bernard Williams|20.txt
+Judith Jarvis Thomson|20.txt
+Jacques Derrida|20.txt
+Alvin Plantinga|20.txt
+Luce Irigaray|20.txt
+John Searle|21.txt
+Jürgen Habermas|21.txt
+Richard Rorty|21.txt
+Jerry Fodor|21.txt
+Thomas Nagel|21.txt
+Sandra Harding|21.txt
+Carol Gilligan|21.txt
+David Hull|21.txt
+Alvin Goldman|21.txt
+Eli Hirsch|21.txt
+Robert Nozick|21.txt
+Saul Kripke|22.txt
+Larry Laudan|22.txt
+Bas van Fraassen|22.txt
+Frank Jackson|22.txt
+David Lewis|22.txt
+Richard Boyd|22.txt
+John McDowell|22.txt
+Tim Scanlon|22.txt
+Derek Parfit|22.txt
+Richard Dawkins|22.txt
+Daniel Dennett|22.txt
+Douglas Hofstadter|22.txt
+Ned Block|22.txt
+Nancy Cartwright|22.txt
+Simon Blackburn|23.txt
+Donna Haraway|23.txt
+Susan Haack|23.txt
+Francisco Varela|23.txt
+John Worrall|23.txt
+Peter Singer|23.txt
+Martha Nussbaum|23.txt
+Judith Butler|23.txt
+Galen Strawson|23.txt
+Graham Oppy|23.txt
+Andy Clark|23.txt
+David Chalmers|23.txt
+James Ladyman|23.txt
