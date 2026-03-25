@@ -1,0 +1,66 @@
+{
+  "name": "Democritus of Abdera",
+  "dates": "c. 460 – 370 BCE",
+  "regionTradition": "Thrace (Greek)",
+  "schoolMovement": "Atomism (Pre-Socratic)",
+  "coreDomains": {
+    "Metaphysics": ["Materialism", "Atomism", "The Void"],
+    "Epistemology": ["Rationalism", "Bastard Knowledge (Senses)"],
+    "Ethics": ["Eudaimonia (Cheerfulness)", "Moderation"],
+    "Physics": ["Determinism", "Cosmology"],
+    "Aesthetics": ["Music and Poetry as products of divine breath or madness"]
+  },
+  "centralQuestions": {
+    "problemsAddressed": "How to explain change and multiplicity without violating Parmenides’ principle that nothing comes from nothing.",
+    "definingTension": "The gap between invisible, eternal atoms and the visible world of sensory experience.",
+    "inheritedQuestion": "The Eleatic challenge: can empty space (the void) exist?",
+    "bequeathedQuestion": [
+      "Is the universe simply matter in motion?",
+      "Does the soul perish with the body?"
+    ]
+  },
+  "keyIdeas": [
+    {
+      "concept": "The Atom (Atomos)",
+      "description": "Reality is composed of indivisible, eternal particles moving through infinite space."
+    },
+    {
+      "concept": "The Void",
+      "description": "Empty space must exist to allow atoms to move; without it, motion is impossible."
+    },
+    {
+      "concept": "Primary vs. Secondary Qualities",
+      "description": "Atoms possess only size, shape, and weight; colors, tastes, and smells are conventions (nomos)."
+    },
+    {
+      "concept": "Euthymia",
+      "description": "The ethical ideal of cheerfulness and tranquility achieved through knowledge and moderation."
+    }
+  ],
+  "methodStyle": {
+    "approach": "Reductive Materialism",
+    "notes": "Used mechanical explanation and logical deduction; distrusted sensory data as a deceptive, 'bastard' form of knowledge."
+  },
+  "influences": [
+    "Leucippus (teacher and originator of atomic theory)",
+    "Parmenides (eternal, unchanging building blocks)"
+  ],
+  "impact": {
+    "immediate": "Overshadowed by Plato and Aristotle; legend claims Plato wished to burn his works.",
+    "longTerm": "Revived in the Renaissance; foundational for modern chemistry and physics.",
+    "modernRelevance": "A precursor to scientific naturalism and mechanistic explanations of the universe."
+  },
+  "critiques": {
+    "famousObjections": "Aristotle argued that constant atomic motion requires a Prime Mover, which Democritus ignored.",
+    "internalContradictions": "If senses are unreliable, how can rational inference about atoms be trusted?"
+  },
+  "archetypalSummary": "The Laughing Philosopher who pierced the veil of appearances to reveal the eternal dance of atoms in the void.",
+  "crossLinks": [
+    "[[Leucippus]]",
+    "[[Epicurus]]",
+    "[[Atomism]]",
+    "[[Materialism]]",
+    "[[Philosophy of Science]]",
+    "[[Void]]"
+  ]
+}

@@ -1,15 +1,4 @@
-Thales
-Anaximander
-Anaximenes
-Pythagoras
-Xenophanes
-Heraclitus
-Parmenides
-Empedocles
-Protagoras
-Democritus & Leucippus
-Zeno of Elea
-Socrates
+
 Aristippus
 Plato
 Aristotle

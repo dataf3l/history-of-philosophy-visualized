@@ -1,0 +1,64 @@
+{
+  "name": "Anaximenes",
+  "dates": "c. 585 – 528 BCE",
+  "regionTradition": "Ionia (Greek)",
+  "schoolMovement": "Milesian School",
+  "coreDomains": {
+    "Metaphysics": ["Material Monism (Air as Arche)"],
+    "Science": ["Meteorology", "Physics (State Changes of Matter)"],
+    "Metaphilosophy": ["Physical Mechanism for Universal Change"]
+  },
+  "centralQuestions": {
+    "problemsAddressed": "How does one substance transform into many different things?",
+    "definingTension": "The gap between Anaximander’s abstract Apeiron and the need for a tangible, observable source.",
+    "inheritedQuestion": "What is the primary substance and how does it change?",
+    "bequeathedQuestion": [
+      "Can qualitative differences be explained by quantitative changes such as density?"
+    ]
+  },
+  "keyIdeas": [
+    {
+      "concept": "Aer (Air) as Arche",
+      "description": "Air is the fundamental substance—more defined than the Apeiron yet infinite and capable of transformation."
+    },
+    {
+      "concept": "Rarefaction and Condensation",
+      "description": "Air becomes fire when thinned (rarefaction) and becomes wind, clouds, water, earth, and stone when thickened (condensation)."
+    },
+    {
+      "concept": "Soul as Breath",
+      "description": "Just as breath holds the human body together, cosmic air holds the world together."
+    },
+    {
+      "concept": "Flat Earth",
+      "description": "Believed the Earth and heavenly bodies were flat and floated on air like leaves."
+    }
+  ],
+  "methodStyle": {
+    "approach": "Empirical Analogy",
+    "notes": "Used everyday observations—like breath temperature—to explain large-scale natural processes; truth grounded in consistent physical behavior."
+  },
+  "influences": [
+    "Thales (concrete element as Arche)",
+    "Anaximander (infinite source of all things)",
+    "Observation of weather and water states"
+  ],
+  "impact": {
+    "immediate": "More accessible and testable than Anaximander’s Apeiron; widely accepted in early Ionia.",
+    "longTerm": "Introduced the first clear mechanism of change, influencing Atomists and later physics.",
+    "modernRelevance": "Anticipates the principle that quantitative changes produce qualitative differences—central to modern chemistry and physics."
+  },
+  "critiques": {
+    "famousObjections": "Parmenides argued that change is impossible regardless of the substance involved.",
+    "scientificInaccuracy": "Air is not the source of metals or stone, but his method was a crucial step toward scientific reasoning."
+  },
+  "archetypalSummary": "The scientist who traded the infinite mystery for a measurable mechanism.",
+  "crossLinks": [
+    "[[Thales]]",
+    "[[Anaximander]]",
+    "[[Rarefaction]]",
+    "[[Materialism]]",
+    "[[Pre-Socratics]]",
+    "[[Philosophy of Science]]"
+  ]
+}

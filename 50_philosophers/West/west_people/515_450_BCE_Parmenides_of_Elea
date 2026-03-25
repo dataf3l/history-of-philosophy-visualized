@@ -1,0 +1,65 @@
+{
+  "name": "Parmenides of Elea",
+  "dates": "c. 515 – 450 BCE",
+  "regionTradition": "Magna Graecia (Southern Italy)",
+  "schoolMovement": "Eleatic School (Founder)",
+  "coreDomains": {
+    "Metaphysics": ["Ontology (Being)", "Monism"],
+    "Epistemology": ["Rationalism", "Way of Truth vs. Way of Opinion"],
+    "Language": ["Thought–Speech–Being Relationship"],
+    "Science": ["Early Astronomy (Moon reflects Sun’s light)"]
+  },
+  "centralQuestions": {
+    "problemsAddressed": "The logical impossibility of nothingness and the contradiction of change.",
+    "definingTension": "Senses show change; reason shows Being is eternal and unchanging.",
+    "inheritedQuestion": "The Milesian and Heraclitean search for the Arche and the nature of Becoming.",
+    "bequeathedQuestion": [
+      "Can we trust our senses?",
+      "Does 'nothing' exist?"
+    ]
+  },
+  "keyIdeas": [
+    {
+      "concept": "Being is One",
+      "description": "What is, is; what is not, cannot be. Reality is a single, eternal, undifferentiated sphere."
+    },
+    {
+      "concept": "Impossibility of Change",
+      "description": "Change requires moving from non-being to being, which is logically impossible."
+    },
+    {
+      "concept": "The Way of Truth (Aletheia)",
+      "description": "Pure reason reveals that reality is motionless, uniform, and necessary."
+    },
+    {
+      "concept": "The Way of Opinion (Doxa)",
+      "description": "Human senses create a deceptive world of plurality, birth, and death."
+    }
+  ],
+  "methodStyle": {
+    "approach": "Strict Deductive Logic",
+    "notes": "Used a priori reasoning from the premise 'It is.' Truth is what is logically necessary and non-contradictory."
+  },
+  "influences": [
+    "Xenophanes (unity and immobility of the divine)",
+    "Pythagorean emphasis on abstract, eternal truths"
+  ],
+  "impact": {
+    "immediate": "Shocked Greek thinkers by arguing that motion and time are impossible; Zeno created paradoxes to defend him.",
+    "longTerm": "Forced Plato, Aristotle, and the Atomists to explain how change is possible; foundational to Western metaphysics.",
+    "modernRelevance": "Echoes modern physics debates about the Block Universe and the illusion of time."
+  },
+  "critiques": {
+    "famousObjections": "Aristotle argued he failed to distinguish between different senses of being (potential vs. actual).",
+    "internalContradictions": "If change is an illusion, why does the illusion exist? How can the One produce even false appearances?"
+  },
+  "archetypalSummary": "The logical titan who froze the universe, declaring that only the Eternal is Real.",
+  "crossLinks": [
+    "[[Zeno of Elea]]",
+    "[[Heraclitus]]",
+    "[[Ontology]]",
+    "[[Monism]]",
+    "[[Rationalism]]",
+    "[[Plato's Sophist]]"
+  ]
+}

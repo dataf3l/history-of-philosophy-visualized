@@ -1,0 +1,63 @@
+{
+  "name": "Leucippus",
+  "dates": "c. 5th Century BCE",
+  "regionTradition": "Miletus or Abdera (Greek)",
+  "schoolMovement": "Atomism (Founder)",
+  "coreDomains": {
+    "Metaphysics": ["Atomism", "The Void", "Necessity"],
+    "Physics": ["Cosmology", "Mechanics of Motion"],
+    "Epistemology": ["Rational Deduction of the Unseen"]
+  },
+  "centralQuestions": {
+    "problemsAddressed": "How to allow for motion and change without violating the Eleatic principle that being cannot arise from non-being.",
+    "definingTension": "The paradox of the Void — asserting that 'nothing' must exist for 'something' to move.",
+    "inheritedQuestion": "How can there be many things if Being is One and continuous?",
+    "bequeathedQuestion": [
+      "Is every event in the universe the result of blind, mechanical necessity?"
+    ]
+  },
+  "keyIdeas": [
+    {
+      "concept": "The First Atomist",
+      "description": "Proposed that reality consists of two fundamentals: 'The Full' (atoms) and 'The Empty' (void)."
+    },
+    {
+      "concept": "Determinism",
+      "description": "His surviving fragment: 'Nothing happens in vain, but everything from a reason and by necessity.'"
+    },
+    {
+      "concept": "Atomic Motion",
+      "description": "Atoms move eternally and inherently; no divine mover or cosmic mind is required."
+    },
+    {
+      "concept": "Cosmogenesis",
+      "description": "Worlds form when a vast void is stirred into a vortex, causing atoms to collide and interlock based on shape."
+    }
+  ],
+  "methodStyle": {
+    "approach": "Logical Atomism",
+    "notes": "Used reductio arguments against Eleatic monism; defined truth as the mechanical reality beneath deceptive sensory appearances."
+  },
+  "influences": [
+    "Parmenides and Zeno (indivisibility of true being)",
+    "The Milesians (naturalistic search for a physical Arche)"
+  ],
+  "impact": {
+    "immediate": "Often overshadowed by his student Democritus; the two were frequently treated as a single intellectual unit.",
+    "longTerm": "Established the foundation for materialism and mechanistic science; precursor to Epicurus’ refinements.",
+    "modernRelevance": "First to propose a bottom-up universe built from fundamental particles and laws of motion."
+  },
+  "critiques": {
+    "famousObjections": "Epicurus argued that strict determinism leaves no room for free will, prompting his theory of the atomic 'swerve.'",
+    "historicalSkepticism": "Some ancient writers doubted his existence, though modern scholarship generally affirms him as the founder of Atomism."
+  },
+  "archetypalSummary": "The architect of the invisible — the thinker who built a universe out of dust and necessity.",
+  "crossLinks": [
+    "[[Democritus]]",
+    "[[Epicurus]]",
+    "[[The Void]]",
+    "[[Determinism]]",
+    "[[Pre-Socratics]]",
+    "[[Atomism]]"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Zeno of Elea",
+  "dates": "c. 495 – 430 BCE",
+  "regionTradition": "Elea (Greek, Magna Graecia)",
+  "schoolMovement": "Eleatic School (Pre-Socratic)",
+  "coreDomains": {
+    "Metaphysics": ["Monism", "Defense of Parmenidean Being"],
+    "Logic": ["Paradoxes", "Reductio ad Absurdum"],
+    "Mathematics": ["Continuity", "Infinite Divisibility"],
+    "Epistemology": ["Rationalism", "Critique of Sensory Experience"],
+    "Physics": ["Motion as Illusory", "Space and Time Paradoxes"]
+  },
+  "centralQuestions": {
+    "problemsAddressed": "How to defend Parmenides’ claim that reality is one, unchanging, and motionless.",
+    "definingTension": "The contradiction between sensory experience (motion, plurality) and rational argument (unity, immobility).",
+    "inheritedQuestion": "Is change or motion possible if Being is one and indivisible?",
+    "bequeathedQuestion": [
+      "How can motion exist if space and time are infinitely divisible?",
+      "Can mathematics resolve paradoxes of continuity and infinity?"
+    ]
+  },
+  "keyIdeas": [
+    {
+      "concept": "The Paradoxes of Motion",
+      "description": "Arguments such as Achilles and the Tortoise, The Dichotomy, The Arrow, and The Stadium, designed to show that motion is logically impossible."
+    },
+    {
+      "concept": "Reductio ad Absurdum",
+      "description": "Zeno’s signature method: assume the opponent’s view and show it leads to contradiction."
+    },
+    {
+      "concept": "Defense of Parmenides",
+      "description": "All plurality and change are illusions; only the One truly exists."
+    },
+    {
+      "concept": "Infinite Divisibility",
+      "description": "Space and time can be divided endlessly, creating logical traps for any theory of motion."
+    }
+  ],
+  "methodStyle": {
+    "approach": "Logical Refutation (Eristic and Dialectical)",
+    "notes": "Zeno wrote paradoxes as weapons in a philosophical war: to show that denying Parmenides leads to absurdity."
+  },
+  "influences": [
+    "Parmenides (teacher and founder of Eleatic monism)",
+    "Eleatic tradition of rationalism and anti-pluralism"
+  ],
+  "impact": {
+    "immediate": "Shocked and impressed contemporaries; forced pluralists to confront the logical problems of motion and multiplicity.",
+    "longTerm": "Influenced Plato’s dialectic, Aristotle’s physics, and later mathematical treatments of infinity.",
+    "modernRelevance": "Central to calculus, set theory, and modern discussions of continuity, limits, and the structure of spacetime."
+  },
+  "critiques": {
+    "famousObjections": "Aristotle argued that Zeno misunderstood motion and conflated mathematical divisibility with physical processes.",
+    "internalContradictions": "If motion is impossible, how can Zeno describe or observe anything at all?"
+  },
+  "archetypalSummary": "The paradox-maker — a defender of the One who used logic to trap the senses and reveal the instability of common sense.",
+  "crossLinks": [
+    "[[Parmenides]]",
+    "[[Eleatic School]]",
+    "[[Infinity]]",
+    "[[Continuity]]",
+    "[[Paradoxes]]",
+    "[[Philosophy of Mathematics]]"
+  ]
+}

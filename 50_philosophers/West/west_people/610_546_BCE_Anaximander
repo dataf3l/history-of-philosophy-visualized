@@ -1,0 +1,64 @@
+{
+  "name": "Anaximander",
+  "dates": "c. 610 – 546 BCE",
+  "regionTradition": "Ionia (Greek)",
+  "schoolMovement": "Milesian School",
+  "coreDomains": {
+    "Metaphysics": ["The Apeiron (The Boundless/Infinite)"],
+    "Science": ["Cosmology", "Cartography (First World Map)", "Biology (Proto-Evolution)"],
+    "Metaphilosophy": ["Rational Proportion", "Balance", "Abstract First Principles"]
+  },
+  "centralQuestions": {
+    "problemsAddressed": "If the Arche is a specific element like water, how can it generate its opposite, such as fire?",
+    "definingTension": "The finite, observable world vs. an infinite, unobservable source.",
+    "inheritedQuestion": "What is the primary substance of the universe?",
+    "bequeathedQuestion": [
+      "How does the Infinite become the finite?",
+      "Is the universe governed by a law of justice or equilibrium?"
+    ]
+  },
+  "keyIdeas": [
+    {
+      "concept": "The Apeiron",
+      "description": "An indefinite, boundless, ageless source containing all opposites and outlasting all worlds."
+    },
+    {
+      "concept": "Cosmic Justice (Dike)",
+      "description": "Elements 'pay a penalty' to one another for their encroachments, maintaining universal balance."
+    },
+    {
+      "concept": "Earth’s Equilibrium",
+      "description": "The Earth remains suspended because it is centered and has no reason to move in any direction."
+    },
+    {
+      "concept": "Proto-Evolution",
+      "description": "Humans evolved from fish-like creatures because infants could not survive in early nature."
+    }
+  ],
+  "methodStyle": {
+    "approach": "Rational Deduction and Symmetry",
+    "notes": "Moved beyond observation into abstract reasoning; argued the source must differ fundamentally from its products."
+  },
+  "influences": [
+    "Thales (teacher and conceptual predecessor)",
+    "Babylonian Astronomy (geometric mapping of heavens and earth)"
+  ],
+  "impact": {
+    "immediate": "Established the Milesian school as a center of scientific and abstract inquiry.",
+    "longTerm": "Anticipated later cosmological theories involving infinite origins; influenced the concept of Logos.",
+    "modernRelevance": "His equilibrium theory foreshadows gravitational reasoning and scientific cosmology."
+  },
+  "critiques": {
+    "famousObjections": "Anaximenes argued the Apeiron was too vague and that philosophy should return to a tangible element like Air.",
+    "internalContradictions": "The Apeiron is defined as 'indefinite,' yet used to explain definite structures."
+  },
+  "archetypalSummary": "The first map‑maker of the infinite, shifting the search for truth from visible substance to abstract principle.",
+  "crossLinks": [
+    "[[Thales]]",
+    "[[Anaximenes]]",
+    "[[Apeiron]]",
+    "[[Cosmology]]",
+    "[[Pre-Socratics]]",
+    "[[Evolutionary Roots]]"
+  ]
+}
