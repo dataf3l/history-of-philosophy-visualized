@@ -75,7 +75,7 @@ def run_analysis(input_file, output_file):
 
 if __name__ == "__main__":
     # Check for custom input file in argv, otherwise default to input.txt
-    input_path = sys.argv[1] if len(sys.argv) > 1 else "input.txt"
-    output_path = "example.json"
-    
+    input_path = sys.argv[1] if len(sys.argv) > 1 else "input-dostoyevsky.txt"
+    output_path = "example-dostoyevsky.json"
+    # python treeviz-a.py --sort-depth example-dostoyevsky.json example-dostoyevsky-sorted.png && python treeviz-a.py example-dostoyevsky.json example-dostoyevsky.png
     run_analysis(input_path, output_path)
