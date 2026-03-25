@@ -1,0 +1,66 @@
+{
+  "name": "Heraclitus of Ephesus",
+  "dates": "c. 535 – 475 BCE",
+  "regionTradition": "Ionia (Greek)",
+  "schoolMovement": "Pre-Socratic (The Ephesian School)",
+  "coreDomains": {
+    "Metaphysics": ["Flux (Panta Rhei)", "Unity of Opposites", "Fire as Arche"],
+    "Epistemology": ["The Logos (Universal Reason)", "Empiricism with Insight"],
+    "Ethics": ["Self-Knowledge", "Character as Destiny"],
+    "Political": ["Aristocracy of Intellect", "Rule by the Wise"],
+    "Religion": ["Critique of Ritual", "Divine as Cosmic Process"]
+  },
+  "centralQuestions": {
+    "problemsAddressed": "What is the nature of change, and what underlying order governs a world in constant motion?",
+    "definingTension": "The Unity of Opposites — how something can be both the same and different simultaneously.",
+    "inheritedQuestion": "The Milesian search for a single material principle (Arche).",
+    "bequeathedQuestion": [
+      "If everything changes, is any truth permanent?",
+      "How does the human mind connect to universal cosmic law?"
+    ]
+  },
+  "keyIdeas": [
+    {
+      "concept": "Panta Rhei (Everything Flows)",
+      "description": "One cannot step into the same river twice; reality is continuous transformation."
+    },
+    {
+      "concept": "The Logos",
+      "description": "A universal rational order that structures all things, though most people fail to perceive it."
+    },
+    {
+      "concept": "Fire as the Arche",
+      "description": "Fire is the fundamental principle because it is dynamic, transformative, and ever-moving."
+    },
+    {
+      "concept": "War/Strife as Father",
+      "description": "Conflict between opposites is necessary for existence; tension sustains the cosmos."
+    }
+  ],
+  "methodStyle": {
+    "approach": "Aphoristic and Paradoxical",
+    "notes": "Wrote in riddles to provoke insight; truth is hidden yet accessible to those attuned to the Logos."
+  },
+  "influences": [
+    "The Milesians (search for a single principle)",
+    "Personal solitude and misanthropy (shaped his elitist stance)"
+  ],
+  "impact": {
+    "immediate": "Seen as obscure, difficult, and arrogant; admired by few contemporaries.",
+    "longTerm": "Formed the 'Becoming' pole of the great debate with Parmenides’ 'Being'; influenced Plato, the Stoics, Hegel, and Nietzsche.",
+    "modernRelevance": "Precursor to Process Philosophy and dialectics; his tension of opposites mirrors modern ideas of entropy and equilibrium."
+  },
+  "critiques": {
+    "internalContradictions": "If everything changes, then the statement 'everything changes' must also change.",
+    "famousObjections": "Cratylus argued one cannot step into the same river even once, leading to radical skepticism about language."
+  },
+  "archetypalSummary": "The dark prophet of the flame — revealing that stability is an illusion born of perfectly balanced tensions.",
+  "crossLinks": [
+    "[[Parmenides]]",
+    "[[The Logos]]",
+    "[[Process Philosophy]]",
+    "[[Unity of Opposites]]",
+    "[[Pre-Socratics]]",
+    "[[Stoicism]]"
+  ]
+}

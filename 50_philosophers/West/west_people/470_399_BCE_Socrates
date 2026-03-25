@@ -1,0 +1,68 @@
+{
+  "name": "Socrates",
+  "dates": "470 – 399 BCE",
+  "regionTradition": "Athens (Greek)",
+  "schoolMovement": "Classical Greek Philosophy; Socratic Method; Proto‑Ethics",
+  "coreDomains": {
+    "Metaphysics": ["Moral Realism", "The Good as Objective", "The Soul as the Seat of Virtue"],
+    "Epistemology": ["Socratic Ignorance", "Dialectic", "Knowledge as Virtue"],
+    "Ethics": ["Virtue Ethics", "Care of the Soul", "Eudaimonia through Moral Inquiry"],
+    "Politics": ["Critique of Athenian Democracy", "Obedience to Law (Nomos)", "Civic Virtue"],
+    "Method": ["Elenchus (Refutation)", "Maieutics (Midwifery of Ideas)"]
+  },
+  "centralQuestions": {
+    "problemsAddressed": "How can a human live a good and virtuous life? What is justice, piety, courage, or wisdom?",
+    "definingTension": "The paradox of knowing that one does not know — ignorance as the beginning of wisdom.",
+    "inheritedQuestion": "The Sophistic challenge: Is virtue teachable? Is truth relative or objective?",
+    "bequeathedQuestion": [
+      "What is the nature of the good life?",
+      "Can ethical knowledge be taught?",
+      "What is the relationship between the soul and moral action?"
+    ]
+  },
+  "keyIdeas": [
+    {
+      "concept": "Socratic Ignorance",
+      "description": "True wisdom begins with recognizing one's own ignorance."
+    },
+    {
+      "concept": "Elenchus",
+      "description": "A method of questioning that exposes contradictions and clarifies concepts."
+    },
+    {
+      "concept": "Virtue as Knowledge",
+      "description": "To know the good is to do the good; wrongdoing arises from ignorance."
+    },
+    {
+      "concept": "Care of the Soul",
+      "description": "The highest human task is cultivating the soul through inquiry and moral discipline."
+    }
+  ],
+  "methodStyle": {
+    "approach": "Dialectical Inquiry",
+    "notes": "Socrates wrote nothing; his method survives through dialogues. He used probing questions to dismantle false certainty and guide interlocutors toward clearer understanding."
+  },
+  "influences": [
+    "Anaxagoras (mind as ordering principle)",
+    "The Sophists (as foils and sparring partners)",
+    "Athenian civic tradition"
+  ],
+  "impact": {
+    "immediate": "Polarizing figure in Athens; admired by youth, distrusted by authorities; executed for impiety and corrupting the youth.",
+    "longTerm": "Foundation of Western ethics and epistemology; central figure for Plato and, through him, the entire philosophical canon.",
+    "modernRelevance": "Prototype of the philosophical life: critical inquiry, moral courage, and intellectual humility."
+  },
+  "critiques": {
+    "famousObjections": "Accused of sophistry, corrupting youth, and undermining traditional religion.",
+    "internalContradictions": "If virtue is knowledge, why do people knowingly act against their own good? Does the elenchus yield knowledge or only aporia?"
+  },
+  "archetypalSummary": "The Gadfly of Athens — a relentless examiner of souls who believed that an unexamined life is not worth living.",
+  "crossLinks": [
+    "[[Plato]]",
+    "[[Xenophon]]",
+    "[[Sophists]]",
+    "[[Virtue Ethics]]",
+    "[[Elenchus]]",
+    "[[Classical Greek Philosophy]]"
+  ]
+}

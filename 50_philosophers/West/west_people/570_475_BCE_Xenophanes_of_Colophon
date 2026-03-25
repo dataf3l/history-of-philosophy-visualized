@@ -1,0 +1,64 @@
+{
+  "name": "Xenophanes of Colophon",
+  "dates": "c. 570 – 475 BCE",
+  "regionTradition": "Ionia / Magna Graecia (Greek)",
+  "schoolMovement": "Eleatic Pre-Socratic (Precursor)",
+  "coreDomains": {
+    "Metaphysics": ["Pantheism / Monotheism (The One God)"],
+    "Epistemology": ["Fallibilism", "Belief (dokos) vs. Certain Truth"],
+    "Religion": ["Critique of Anthropomorphism", "Naturalism"],
+    "Science": ["Geology", "Paleontology (Fossil Evidence)"]
+  },
+  "centralQuestions": {
+    "problemsAddressed": "The immorality and absurdity of the Homeric gods who behaved like flawed humans.",
+    "definingTension": "The human desire to know the divine vs. the limits of human perspective.",
+    "inheritedQuestion": "The Milesian search for a single Arche, applied to the nature of God rather than matter.",
+    "bequeathedQuestion": [
+      "If certain truth is impossible, can inquiry still bring us closer to it?"
+    ]
+  },
+  "keyIdeas": [
+    {
+      "concept": "Critique of Anthropomorphism",
+      "description": "If horses or lions could draw, they would depict gods in their own image; humans do the same."
+    },
+    {
+      "concept": "The One God",
+      "description": "A non-human, immobile, eternal deity who 'sways all things by the thought of his mind.'"
+    },
+    {
+      "concept": "Fallibilism",
+      "description": "Humans cannot know certain truth; we only hold beliefs that approximate it."
+    },
+    {
+      "concept": "Fossil Evidence",
+      "description": "Used seashells found in mountains to argue the earth was once underwater."
+    }
+  ],
+  "methodStyle": {
+    "approach": "Skeptical Rationalism and Social Critique",
+    "notes": "Used satirical poetry and reductio arguments to dismantle mythic religion; truth exists but is inaccessible in full."
+  },
+  "influences": [
+    "The Milesians (naturalistic explanations of phenomena)",
+    "Homer and Hesiod (as targets of critique)"
+  ],
+  "impact": {
+    "immediate": "A wandering poet-philosopher who challenged Greek religion at its foundations.",
+    "longTerm": "Inspired Parmenides and the Eleatic School; foundational figure in Western Skepticism.",
+    "modernRelevance": "Early contributor to the sociology of religion and scientific reasoning through physical evidence."
+  },
+  "critiques": {
+    "famousObjections": "Aristotle criticized him for not clarifying whether his One God was material or immaterial.",
+    "internalContradictions": "He denied humans can know truth, yet confidently described the nature of the divine."
+  },
+  "archetypalSummary": "The iconoclast who shattered the human-shaped gods to reveal a universe governed by reason, not myth.",
+  "crossLinks": [
+    "[[Parmenides]]",
+    "[[Skepticism]]",
+    "[[Monotheism]]",
+    "[[Epistemology]]",
+    "[[Pre-Socratics]]",
+    "[[Philosophy of Religion]]"
+  ]
+}

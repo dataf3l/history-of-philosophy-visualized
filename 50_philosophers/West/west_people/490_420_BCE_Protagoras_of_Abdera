@@ -1,0 +1,66 @@
+{
+  "name": "Protagoras of Abdera",
+  "dates": "c. 490 – 420 BCE",
+  "regionTradition": "Thrace / Athens (Greek)",
+  "schoolMovement": "The Sophists (The First and Greatest)",
+  "coreDomains": {
+    "Epistemology": ["Relativism (Subjectivism)", "Perspectivism"],
+    "Ethics": ["Social Contract", "Civic Virtue (Arete)"],
+    "Political": ["Democracy", "Rhetoric", "Debate"],
+    "Language": ["Orthoepeia (Correct Use of Words)", "Grammar"],
+    "Religion": ["Agnosticism"]
+  },
+  "centralQuestions": {
+    "problemsAddressed": "How to succeed in democratic Athens where persuasion determined political power.",
+    "definingTension": "Physis vs. Nomos — are values natural or merely human conventions?",
+    "inheritedQuestion": "The Pre-Socratic search for a single, objective truth.",
+    "bequeathedQuestion": [
+      "Is there such a thing as objective truth?",
+      "Is truth simply what the majority agrees upon?"
+    ]
+  },
+  "keyIdeas": [
+    {
+      "concept": "Man is the Measure",
+      "description": "The Homo Mensura doctrine: truth is relative to the perceiver."
+    },
+    {
+      "concept": "Two Sides to Every Issue",
+      "description": "For every argument, an equally strong counterargument exists (Dissoi Logoi)."
+    },
+    {
+      "concept": "Making the Weaker Argument the Stronger",
+      "description": "Teaching rhetorical skill to win debates regardless of the objective truth."
+    },
+    {
+      "concept": "Agnosticism about the Gods",
+      "description": "Claimed that divine matters are unknowable due to human limitations."
+    }
+  ],
+  "methodStyle": {
+    "approach": "Rhetorical and Pragmatic",
+    "notes": "Truth is a useful belief, not a mirror of nature; emphasized persuasion, civic utility, and linguistic precision."
+  },
+  "influences": [
+    "Heraclitus (flux and perspectivism)",
+    "Rise of Athenian Democracy (demand for rhetorical skill)"
+  ],
+  "impact": {
+    "immediate": "Famous and wealthy; controversial; works reportedly burned due to agnosticism.",
+    "longTerm": "Catalyst for Plato and Socrates' defense of objective truth.",
+    "modernRelevance": "Precursor to Pragmatism, Postmodernism, and Communication Theory."
+  },
+  "critiques": {
+    "famousObjections": "Plato's self-refutation argument: if all truth is relative, then Protagoras' doctrine is also only relatively true.",
+    "internalContradictions": "If truth is relative, what does it mean to teach virtue or correctness?"
+  },
+  "archetypalSummary": "The lawyer of the mind — shifting philosophy from cosmic speculation to human experience and the power of language.",
+  "crossLinks": [
+    "[[Socrates]]",
+    "[[Plato's Protagoras]]",
+    "[[Relativism]]",
+    "[[Sophists]]",
+    "[[Rhetoric]]",
+    "[[Pragmatism]]"
+  ]
+}

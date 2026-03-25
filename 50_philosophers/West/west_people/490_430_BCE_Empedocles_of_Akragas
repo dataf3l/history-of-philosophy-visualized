@@ -1,0 +1,65 @@
+{
+  "name": "Empedocles of Akragas",
+  "dates": "c. 490 – 430 BCE",
+  "regionTradition": "Sicily (Magna Graecia)",
+  "schoolMovement": "Pluralist (Pre-Socratic)",
+  "coreDomains": {
+    "Metaphysics": ["Pluralism (The Four Roots)", "Cosmic Cycles"],
+    "Biology": ["Early evolutionary theory", "Random combination of limbs/organs"],
+    "Physics": ["Conservation of matter", "Rearrangement rather than creation/destruction"],
+    "Religion": ["Transmigration of souls", "Vegetarianism"],
+    "Science": ["Air as a physical substance", "Clepsydra experiment"]
+  },
+  "centralQuestions": {
+    "problemsAddressed": "How to reconcile Parmenides’ unchanging Being with Heraclitus’ constant flux.",
+    "definingTension": "The cosmic struggle between Love (attraction) and Strife (repulsion).",
+    "inheritedQuestion": "Is the Arche one thing or many?",
+    "bequeathedQuestion": [
+      "Can complex life emerge from simple, random mechanical processes?"
+    ]
+  },
+  "keyIdeas": [
+    {
+      "concept": "The Four Roots",
+      "description": "Reality consists of four eternal, unchanging elements: Earth, Air, Fire, Water."
+    },
+    {
+      "concept": "Love and Strife",
+      "description": "Two cosmic forces: Love unifies the elements; Strife separates them."
+    },
+    {
+      "concept": "The Cosmic Cycle",
+      "description": "The universe oscillates between total unity (The Sphere) and total separation."
+    },
+    {
+      "concept": "Survival of the Fittest",
+      "description": "A proto-evolutionary theory: random combinations of limbs formed creatures; only functional ones survived."
+    }
+  ],
+  "methodStyle": {
+    "approach": "Eclectic and Poetic",
+    "notes": "Wrote in hexameter verse; blended physical observation with mystical claims; truth is understanding the mixing/unmixing of the roots."
+  },
+  "influences": [
+    "Parmenides (eternal, unchanging elements)",
+    "Pythagoras (reincarnation and sanctity of life)"
+  ],
+  "impact": {
+    "immediate": "Revered as a god-like figure; legendary death by leaping into Mount Etna.",
+    "longTerm": "Four Elements theory shaped Western science and medicine for 2,000+ years.",
+    "modernRelevance": "Precursor to conservation of mass and natural selection."
+  },
+  "critiques": {
+    "famousObjections": "Aristotle argued he failed to explain why Love and Strife exist or how they cause motion.",
+    "internalContradictions": "His mystical religious poems conflict with his mechanical physical theories."
+  },
+  "archetypalSummary": "The cosmic chemist who saw existence as a dance of elements driven by attraction and conflict.",
+  "crossLinks": [
+    "[[Parmenides]]",
+    "[[Anaxagoras]]",
+    "[[The Four Elements]]",
+    "[[Evolutionary Theory]]",
+    "[[Pluralism]]",
+    "[[Conservation of Matter]]"
+  ]
+}

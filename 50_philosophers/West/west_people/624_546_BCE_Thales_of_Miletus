@@ -1,0 +1,63 @@
+{
+  "name": "Thales of Miletus",
+  "dates": "c. 624 – 546 BCE",
+  "regionTradition": "Ionia (Greek)",
+  "schoolMovement": "Milesian School (First Western Philosopher)",
+  "coreDomains": {
+    "Metaphysics": ["Monism (The One)"],
+    "Science": ["Astronomy", "Geometry", "Physics"],
+    "Religion": ["Naturalism (Divinity as a force within nature)"]
+  },
+  "centralQuestions": {
+    "problemsAddressed": "How can one fundamental substance account for the diversity of the world?",
+    "definingTension": "The paradox of change: if the world changes, what remains the same?",
+    "inheritedQuestion": "Why do things happen? (Previously answered by 'the gods willed it.')",
+    "bequeathedQuestion": [
+      "What is the basic material (Arche) of the universe?"
+    ]
+  },
+  "keyIdeas": [
+    {
+      "concept": "Water as Arche",
+      "description": "All things come from water and return to water; the Earth floats upon water."
+    },
+    {
+      "concept": "Hylozoism",
+      "description": "Matter is alive or self-moving; 'all things are full of gods.'"
+    },
+    {
+      "concept": "Naturalism",
+      "description": "Replaced mythic explanations with physical, observable causes."
+    },
+    {
+      "concept": "Mathematical Deduction",
+      "description": "Applied geometry to practical problems, such as measuring pyramid heights by their shadows."
+    }
+  ],
+  "methodStyle": {
+    "approach": "Empirical Observation & Rational Inference",
+    "notes": "Observed moisture’s role in life and water’s multiple states; truth is a natural law discoverable by reason."
+  },
+  "influences": [
+    "Egyptian and Babylonian mathematics and astronomy",
+    "The intellectual openness of Miletus as a trading hub"
+  ],
+  "impact": {
+    "immediate": "Revered as one of the Seven Sages of Greece.",
+    "longTerm": "Founded the Western tradition of Natural Philosophy.",
+    "modernRelevance": "Represents the first recorded attempt at scientific reductionism."
+  },
+  "critiques": {
+    "internalContradictions": "If everything is water, how do 'dry' opposites like fire arise?",
+    "famousObjections": "Anaximander argued that a specific element like water is too limited to be the source of all things."
+  },
+  "archetypalSummary": "The pioneer who first looked at a storm and saw a mechanism rather than a god’s anger.",
+  "crossLinks": [
+    "[[Anaximander]]",
+    "[[Anaximenes]]",
+    "[[Pre-Socratics]]",
+    "[[Monism]]",
+    "[[The Arche]]",
+    "[[Natural Philosophy]]"
+  ]
+}

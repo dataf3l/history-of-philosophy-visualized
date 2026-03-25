@@ -1,6 +1,5 @@
 List of Philosophers:
 --------------------
-Socrates
 Aristippus
 Plato
 Aristotle

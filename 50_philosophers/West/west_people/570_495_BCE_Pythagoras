@@ -1,0 +1,66 @@
+{
+  "name": "Pythagoras",
+  "dates": "c. 570 – 495 BCE",
+  "regionTradition": "Samos / Magna Graecia (Greek)",
+  "schoolMovement": "Pythagoreanism",
+  "coreDomains": {
+    "Metaphysics": ["Number as Essence", "Dualism (Limit vs. Unlimited)"],
+    "Ethics": ["Asceticism", "Harmony", "The Three Lives (Theoretic, Practical, Apolaustic)"],
+    "Religion": ["Transmigration of Souls (Metempsychosis)", "Sacred Silence"],
+    "Aesthetics": ["Musical Harmony", "Music of the Spheres"],
+    "Science": ["Mathematics", "Astronomy", "Music Theory"]
+  },
+  "centralQuestions": {
+    "problemsAddressed": "How can the soul be purified to escape the cycle of reincarnation?",
+    "definingTension": "The conflict between the physical body (the 'prison') and the immortal, mathematical soul.",
+    "inheritedQuestion": "The Milesian quest for the Arche, shifting focus from matter to form.",
+    "bequeathedQuestion": [
+      "Is the universe fundamentally mathematical?",
+      "Does the soul exist independently of the body?"
+    ]
+  },
+  "keyIdeas": [
+    {
+      "concept": "All is Number",
+      "description": "Numbers are not symbols but the actual structure and substance of reality."
+    },
+    {
+      "concept": "Metempsychosis",
+      "description": "The soul is immortal and undergoes repeated rebirths in various forms."
+    },
+    {
+      "concept": "Kosmos",
+      "description": "First to call the universe a 'Cosmos'—an ordered, beautiful whole governed by mathematical laws."
+    },
+    {
+      "concept": "The Tetractys",
+      "description": "A sacred triangular figure of ten points symbolizing the structure of space and the harmony of the universe."
+    }
+  ],
+  "methodStyle": {
+    "approach": "Mathematical Mysticism",
+    "notes": "Combined deductive proof with secret religious rituals; truth is a harmonious ratio expressed through geometry and music."
+  },
+  "influences": [
+    "Orphism (soul purification and reincarnation)",
+    "Egyptian and Babylonian mathematics (geometry and number mysticism)"
+  ],
+  "impact": {
+    "immediate": "Founded a secretive communal order that influenced politics in Southern Italy.",
+    "longTerm": "Shaped Plato’s metaphysics and laid the foundation for Western mathematical science.",
+    "modernRelevance": "Modern physics’ use of equations to describe nature is a continuation of Pythagorean thought."
+  },
+  "critiques": {
+    "famousObjections": "The discovery of irrational numbers challenged the belief that the universe is perfectly numerical.",
+    "laterReinterpretations": "Criticized for cult-like rules, including the ban on eating beans."
+  },
+  "archetypalSummary": "The mystic‑mathematician who heard the universe as a symphony of numbers.",
+  "crossLinks": [
+    "[[Plato]]",
+    "[[Mathematics]]",
+    "[[Metempsychosis]]",
+    "[[Harmonics]]",
+    "[[Pre-Socratics]]",
+    "[[Sacred Geometry]]"
+  ]
+}
