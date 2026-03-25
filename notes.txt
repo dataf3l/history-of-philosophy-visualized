@@ -1,0 +1,268 @@
+
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        example.json
+        example.png
+        input.txt
+        links.txt
+        mess.txt
+        philosophers-world.txt
+        tree.py
+        tree2.py
+        tree3.py
+        tree4.py
+        tree5.py
+        tree6.py
+        tree7.py
+        tree8.py
+        treeviz.py
+        venv/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+(venv) D:\felipe\work\ml\philosophy-visualized>git add *.py
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/_distutils_hack/__init__.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/_distutils_hack/override.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/certifi/__init__.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/certifi/__main__.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/certifi/core.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/__init__.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/_compat.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/_termui_impl.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/_textwrap.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/_utils.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/_winconsole.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/core.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/decorators.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/exceptions.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/formatting.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/globals.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/parser.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/shell_completion.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/termui.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/testing.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/types.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/click/utils.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/colorama/__init__.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/colorama/ansi.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/colorama/ansitowin32.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/colorama/initialise.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/colorama/tests/__init__.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/colorama/tests/ansi_test.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in venv/Lib/site-packages/colorama/tests/ansitowin32_tes
+The file will have its original line endings in your working directory
+Clink v1.7.6.d9907d
+Copyright (c) 2012-2018 Martin Ridgers
+Portions Copyright (c) 2020-2024 Christopher Antos
+https://github.com/chrisant996/clink
+
+D:\felipe\work\ml\philosophy-visualized>venv\Scripts\activate.bat 
+
+(venv) D:\felipe\work\ml\philosophy-visualized>ls
+50_philosophers  example.json  fix.sh     links.txt  mess2.txt  philosophers-world.txt  tree.
+README.md        example.png   input.txt  mess.txt   mine       philosophers.txt        tree2
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python treeviz.py  example.json example.png 
+Forest rendered: example.png (36x12 px)
+Max Tree Size: 5 nodes wide, 3 nodes deep
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python tree8.py
+--- Initializing Stanford Stanza ---
+Model Load Time: 11.53 seconds
+Traceback (most recent call last):
+  File "D:\felipe\work\ml\philosophy-visualized\tree8.py", line 81, in <module>
+    run_analysis(input_path, output_path)
+  File "D:\felipe\work\ml\philosophy-visualized\tree8.py", line 35, in run_analysis
+    full_text = f.read()
+                ^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x92 in position 254: invalid start byte
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python tree8.py
+--- Initializing Stanford Stanza ---
+Model Load Time: 4.82 seconds
+Traceback (most recent call last):
+  File "D:\felipe\work\ml\philosophy-visualized\tree8.py", line 81, in <module>
+    run_analysis(input_path, output_path)
+  File "D:\felipe\work\ml\philosophy-visualized\tree8.py", line 35, in run_analysis
+    full_text = f.read()
+                ^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x92 in position 254: invalid start byte
+
+(venv) D:\felipe\work\ml\philosophy-visualized>code .
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python tree8.py
+--- Initializing Stanford Stanza ---
+Processing text and generating trees...
+Tree Generation Time: 13.81 seconds
+Success: 216 trees saved to example.json
+
+(venv) D:\felipe\work\ml\philosophy-visualized>explorer ,
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python treeviz.py  example.json example.png   
+Forest rendered: example.png (2160x585 px)
+Max Tree Size: 47 nodes wide, 12 nodes deep
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python tree8.py
+--- Initializing Stanford Stanza ---
+Model Load Time: 5.03 seconds
+Processing text and generating trees...
+Tree Generation Time: 53.46 seconds
+Success: 988 trees saved to example1.json
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python treeviz.py  example1.json example1.png 
+
+Forest rendered: example1.png (5280x1209 px)
+Max Tree Size: 54 nodes wide, 12 nodes deep
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python tree8.py
+--- Initializing Stanford Stanza ---
+Model Load Time: 4.81 seconds
+Processing text and generating trees...
+Tree Generation Time: 59.65 seconds
+Success: 973 trees saved to example.json
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python tree8.py
+--- Initializing Stanford Stanza ---
+Model Load Time: 7.63 seconds
+Processing text and generating trees...
+Tree Generation Time: 402.83 seconds
+Success: 7762 trees saved to example.json
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python treeviz.py  example.json example.png
+Forest rendered: example.png (47526x4752 px)
+Max Tree Size: 177 nodes wide, 17 nodes deep
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python tree8.py
+--- Initializing Stanford Stanza ---
+Model Load Time: 10.92 seconds
+Processing text and generating trees...
+Tree Generation Time: 157.13 seconds
+Success: 1669 trees saved to example-russel.json
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python treeviz.py  example-russel.json example
+Forest rendered: example-russel.png (9348x1845 px)
+Max Tree Size: 75 nodes wide, 14 nodes deep
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python treeviz-a.py  --sort-depth example-russ
+Forest rendered to example-russel-sorted.png
+Stats: 1669 trees | Grid: 41x41 | Max Depth: 14
+
+(venv) D:\felipe\work\ml\philosophy-visualized>explorer .
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python tree8.py
+--- Initializing Stanford Stanza ---
+Model Load Time: 7.26 seconds
+Processing text and generating trees...
+Tree Generation Time: 60.72 seconds
+Success: 988 trees saved to example-qwen.json
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python treeviz-a.py  --sort-depth example-qwen
+Forest rendered to example-qwen-sorted.png
+Stats: 988 trees | Grid: 32x31 | Max Depth: 12
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python treeviz-a.pyexample-qwen.json example-q
+c:\Python312\python.exe: can't open file 'D:\\felipe\\work\\ml\\philosophy-visualized\\treevi
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python treeviz-a.py example-qwen.json example-
+Forest rendered to example-qwen.png
+Stats: 988 trees | Grid: 32x31 | Max Depth: 12
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python tree8.py
+--- Initializing Stanford Stanza ---
+Model Load Time: 6.95 seconds
+Processing text and generating trees...
+Tree Generation Time: 227.01 seconds
+Success: 2916 trees saved to example-tractatus.json
+Forest rendered to example-tractatus.png
+Stats: 2916 trees | Grid: 55x54 | Max Depth: 28                                             a
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python treeviz-a.py --sort-depth example-tract
+Traceback (most recent call last):
+  File "D:\felipe\work\ml\philosophy-visualized\treeviz-a.py", line 105, in <module>
+    draw_forest(args)
+  File "D:\felipe\work\ml\philosophy-visualized\treeviz-a.py", line 23, in draw_forest
+    with open(args.input, 'r', encoding='utf-8') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'example-tractatus-sorted.json'
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python treeviz-a.py --sort-depth example-tract
+Forest rendered to example-tractatus-sorted.png
+Stats: 2916 trees | Grid: 55x54 | Max Depth: 28
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python tree8.py
+--- Initializing Stanford Stanza ---
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python tree8.py
+--- Initializing Stanford Stanza ---
+Model Load Time: 4.75 seconds
+Processing text and generating trees...
+Tree Generation Time: 702.71 seconds
+Success: 6229 trees saved to example-kant-critique.json
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python treeviz-a.py --sort-depth example-kant-critique.json example-kant-critique-sorted.png   
+Forest rendered to example-kant-critique-sorted.png
+Stats: 6229 trees | Grid: 79x79 | Max Depth: 18
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python treeviz-a.py example-kant-critique.json example-kant-critique.png
+Forest rendered to example-kant-critique.png
+Stats: 6229 trees | Grid: 79x79 | Max Depth: 18
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python tree8.py && python treeviz-a.py --sort-depth example-hegel.json example-hegel-sorted.png && python treeviz-a.py example-hegel.json example-hegel.png
+--- Initializing Stanford Stanza ---
+Model Load Time: 9.47 seconds
+Processing text and generating trees...
+Tree Generation Time: 410.65 seconds
+Success: 4573 trees saved to example-hegel.json
+Forest rendered to example-hegel-sorted.png
+Stats: 4573 trees | Grid: 68x68 | Max Depth: 18
+Forest rendered to example-hegel.png
+Stats: 4573 trees | Grid: 68x68 | Max Depth: 18
+
+(venv) D:\felipe\work\ml\philosophy-visualized>python tree8.py && python treeviz-a.py --sort-depth example-hegel.json example-hegel-sorted.png && python treeviz-a.py example-hegel.json example-hegel.png
+--- Initializing Stanford Stanza ---
+Model Load Time: 8.66 seconds
+Processing text and generating trees...
+Tree Generation Time: 385.56 seconds
+Success: 4456 trees saved to example-hegel.json
+Forest rendered to example-hegel-sorted.png
+Stats: 4456 trees | Grid: 67x67 | Max Depth: 18
+Forest rendered to example-hegel.png
+Stats: 4456 trees | Grid: 67x67 | Max Depth: 18
+
+(venv) D:\felipe\work\ml\philosophy-visualized>antigravity .
+
+(venv) D:\felipe\work\ml\philosophy-visualized>
