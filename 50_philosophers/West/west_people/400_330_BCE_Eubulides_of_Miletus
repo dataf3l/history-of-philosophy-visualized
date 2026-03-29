@@ -1,0 +1,41 @@
+{
+  "philosopher": "Eubulides of Miletus",
+  "period": "Classical Greece",
+  "dates": {
+    "born": "c. 400 BCE",
+    "died": "c. 330 BCE",
+    "location": "Miletus"
+  },
+  "tradition": "Megarian school",
+  "key_interests": [
+    "Logic",
+    "Dialectic",
+    "Philosophy of Language",
+    "Eristics"
+  ],
+  "notable_paradoxes": [
+    "The Liar Paradox",
+    "The Sorites Paradox (The Heap)",
+    "The Horned Man",
+    "The Electra"
+  ],
+  "influences": [
+    "Euclid of Megara",
+    "Socrates"
+  ],
+  "major_works": [
+    {
+      "title": "On Diogenes",
+      "status": "Lost (Fragmentary references)"
+    },
+    {
+      "title": "On Logic",
+      "status": "Lost (Fragmentary references)"
+    }
+  ],
+  "legacy": {
+    "institution": "The Megarian School",
+    "famous_rival": "Aristotle",
+    "impact": "Foundation of propositional logic and the study of linguistic vagueness"
+  }
+}

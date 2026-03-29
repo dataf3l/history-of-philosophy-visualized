@@ -1,0 +1,36 @@
+{
+  "philosopher": "Diogenes of Sinope",
+  "period": "Classical Greece",
+  "dates": {
+    "born": "c. 412 BCE",
+    "died": "c. 323 BCE",
+    "location": "Sinope / Athens / Corinth"
+  },
+  "tradition": "Cynicism",
+  "key_interests": [
+    "Ethics",
+    "Social Criticism",
+    "Asceticism",
+    "Cosmopolitanism"
+  ],
+  "notable_actions": [
+    "Living in a large ceramic jar (pithos)",
+    "Searching for an 'honest man' with a lamp",
+    "Rejecting social conventions (anaideia)",
+    "Self-sufficiency (autarkeia)"
+  ],
+  "influences": [
+    "Antisthenes",
+    "Socrates"
+  ],
+  "major_works": [
+    {
+      "title": "N/A",
+      "status": "He wrote nothing that survived; his life was his text"
+    }
+  ],
+  "legacy": {
+    "famous_interaction": "Alexander the Great",
+    "impact": "Foundation of Cynicism and influence on Stoic ethics"
+  }
+}

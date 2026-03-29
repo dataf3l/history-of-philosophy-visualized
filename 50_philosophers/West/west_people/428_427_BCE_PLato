@@ -1,0 +1,57 @@
+{
+  "philosopher": "Plato",
+  "period": "Classical Greece",
+  "dates": {
+    "born": "c. 428/427 BCE",
+    "died": "c. 348/347 BCE",
+    "location": "Athens"
+  },
+  "tradition": "Platonism",
+  "key_interests": [
+    "Epistemology",
+    "Ethics",
+    "Metaphysics",
+    "Politics",
+    "Education"
+  ],
+  "notable_ideas": [
+    "Theory of Forms",
+    "Platonic Realism",
+    "Allegory of the Cave",
+    "The Tripartite Soul",
+    "Philosopher King"
+  ],
+  "influences": [
+    "Socrates",
+    "Pythagoras",
+    "Heraclitus",
+    "Parmenides"
+  ],
+  "major_works": [
+    {
+      "title": "The Republic",
+      "focus": "Justice, the order and character of the just city-state"
+    },
+    {
+      "title": "The Apology",
+      "focus": "The trial and defense of Socrates"
+    },
+    {
+      "title": "Symposium",
+      "focus": "The nature of love (Eros)"
+    },
+    {
+      "title": "Theaetetus",
+      "focus": "The nature of knowledge"
+    },
+    {
+      "title": "Phaedo",
+      "focus": "The immortality of the soul"
+    }
+  ],
+  "legacy": {
+    "institution": "The Academy (Athens)",
+    "famous_student": "Aristotle",
+    "impact": "Foundational figure for Western philosophy and science"
+  }
+}

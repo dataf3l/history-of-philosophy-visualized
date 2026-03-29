@@ -1,0 +1,56 @@
+{
+  "philosopher": "Aristotle",
+  "period": "Classical Greece",
+  "dates": {
+    "born": "384 BCE",
+    "died": "322 BCE",
+    "location": "Stagira"
+  },
+  "tradition": "Peripatetic school",
+  "key_interests": [
+    "Logic (Syllogism)",
+    "Biology",
+    "Ethics",
+    "Physics",
+    "Poetics"
+  ],
+  "notable_ideas": [
+    "Golden Mean",
+    "Hylomorphism",
+    "Four Causes",
+    "Virtue Ethics",
+    "Categorical Syllogism"
+  ],
+  "influences": [
+    "Plato",
+    "Socrates",
+    "Democritus"
+  ],
+  "major_works": [
+    {
+      "title": "Nicomachean Ethics",
+      "focus": "The nature of happiness (eudaimonia) and virtue"
+    },
+    {
+      "title": "Metaphysics",
+      "focus": "First principles and the nature of being"
+    },
+    {
+      "title": "Politics",
+      "focus": "The structure of the city-state and governance"
+    },
+    {
+      "title": "Poetics",
+      "focus": "The theory of drama and tragedy"
+    },
+    {
+      "title": "Organon",
+      "focus": "A collection of works on logic"
+    }
+  ],
+  "legacy": {
+    "institution": "The Lyceum",
+    "famous_student": "Alexander the Great",
+    "impact": "Defined the framework for Western science and logic for nearly 2,000 years"
+  }
+}
